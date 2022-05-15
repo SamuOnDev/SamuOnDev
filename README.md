@@ -22,7 +22,7 @@ You can click the Preview link to take a look at your changes.
 
 ### Languages
 <p align="left">
-  <img src="https://cdn.discordapp.com/attachments/975450807833079871/975450834152329287/TypeScript.png" style="max-width: 100%">
+  <img src="https://cdn.discordapp.com/attachments/975450807833079871/975450834152329287/TypeScript.png" style="max-width: 10% width: 130px">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/css3.svg" style="max-width: 100%">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/html.svg" style="max-width: 100%">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/js.svg" style="max-width: 100%">
