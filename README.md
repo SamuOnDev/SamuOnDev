@@ -16,12 +16,14 @@
   </a>
 </p>
 
+## Hola! 👋
 
+I’m @Samuel-Galindo 'aka' IzPanda o P4nd4. Soy un desarrollador junior y creador de contenido en Twitch y YouTube.
 
-- 👋 Hi, I’m @Samuel-Galindo
-- 👀 I’m interested in ...
+Disfruto aprendiendo nuevas tecnologias, y creando proyectos. Duranto mucho tiempo he ido aprendiendo por mi cuenta, hasta que he dado el salto a dedicarme 100% al desarrollo. 
+ .
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 💞️ Me encantan los videojuegos y los ordenadores. Empece desde bien joven y aqui sigo, he sido dueño de servidores y grandes comunidades de videojuegos durante mi vida.
 - 📫 How to reach me ...
 
 <!---
@@ -31,7 +33,7 @@ You can click the Preview link to take a look at your changes.
 
 <hr>
 
-## Using...
+## Knowledge
 
 ### Frameworks
 <p align="left">
