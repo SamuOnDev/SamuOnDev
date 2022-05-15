@@ -18,13 +18,26 @@
 
 ## Hola! 👋
 
-I’m @Samuel-Galindo 'aka' IzPanda o P4nd4. Soy un desarrollador junior y creador de contenido en Twitch y YouTube.
+Soy @Samuel-Galindo 'aka' IzPanda o P4nd4. Soy un desarrollador junior y creador de contenido en Twitch y YouTube.
 
 Disfruto aprendiendo nuevas tecnologias, y creando proyectos. Duranto mucho tiempo he ido aprendiendo por mi cuenta, hasta que he dado el salto a dedicarme 100% al desarrollo. 
- .
-- 🌱 I’m currently learning ...
-- 💞️ Me encantan los videojuegos y los ordenadores. Empece desde bien joven y aqui sigo, he sido dueño de servidores y grandes comunidades de videojuegos durante mi vida.
-- 📫 How to reach me ...
+
+- 🔭 Actualmente trabajo en expandir y afianzar mis conocimientos
+- 🌱 Actualmente estoy aprendiendo TypeScript, Angular, NodeJS y todo lo que puedo
+- 💞️ Algo sobre mi: Me encantan los videojuegos y los ordenadores. Empece desde bien joven y aqui sigo, he sido dueño de servidores y grandes comunidades de          videojuegos durante mi vida.
+
+<hr>
+
+## Hello! 👋
+
+I'm @Samuel-Galindo 'aka' IzPanda or P4nd4. I am a junior developer and content creator on Twitch and YouTube.
+
+I enjoy learning new technologies, and creating projects. For a long time I have been learning on my own, until I have taken the leap to dedicate myself 100% to development.
+
+- 🔭 I am currently working on expanding and strengthening my knowledge
+- 🌱 I'm currently learning TypeScript, Angular, NodeJS and everything I can
+- 💞️ Something about me: I love video games and computers. I started very young and here I am, I have owned servers and large video game communities during my life.
+
 
 <!---
 Samuel-Galindo/Samuel-Galindo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
