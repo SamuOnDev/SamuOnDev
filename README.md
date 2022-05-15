@@ -38,6 +38,17 @@ I enjoy learning new technologies, and creating projects. For a long time I have
 - 🌱 I'm currently learning TypeScript, Angular, NodeJS and everything I can
 - 💞️ Something about me: I love video games and computers. I started very young and here I am, I have owned servers and large video game communities during my life.
 
+<hr>
+
+## Hola! 👋
+
+Soy @Samuel-Galindo 'aka' IzPanda o P4nd4. Soy un desarrollador junior y creador de contenido en Twitch y YouTube.
+
+Disfruto aprendiendo nuevas tecnologias, y creando proyectos. Duranto mucho tiempo he ido aprendiendo por mi cuenta, hasta que he dado el salto a dedicarme 100% al desarrollo. 
+
+- 🔭 Actualmente trabajo en expandir y afianzar mis conocimientos
+- 🌱 Actualmente estoy aprendiendo TypeScript, Angular, NodeJS y todo lo que puedo
+- 💞️ Algo sobre mi: Me encantan los videojuegos y los ordenadores. Empece desde bien joven y aqui sigo, he sido dueño de servidores y grandes comunidades de          videojuegos durante mi vida.
 
 <!---
 Samuel-Galindo/Samuel-Galindo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
