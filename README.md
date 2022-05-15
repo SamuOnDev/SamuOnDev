@@ -16,8 +16,8 @@ You can click the Preview link to take a look at your changes.
 ### Frameworks
 <p align="left">
   <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/angular.svg" style="max-width: 100%">
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/frameworks/jquery.svg" style="max-width: 100%">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/frameworks/nodejs_larger.svg" style="max-width: 100%">
+   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/frameworks/jquery.svg" style="max-width: 100%">
 </p>
 
 ### Languages
