@@ -26,11 +26,6 @@ I enjoy learning new technologies, and creating projects. For a long time I have
 - 🌱 I'm currently learning TypeScript, Angular, NodeJS and everything I can
 - 💞️ Something about me: I love video games and computers. I started very young and here I am, I have owned servers and large video game communities during my life.
 
-<!---
-Samuel-Galindo/Samuel-Galindo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
 <hr>
 
 ## Knowledge
