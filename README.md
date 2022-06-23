@@ -59,9 +59,9 @@ I enjoy learning new technologies, and creating projects. For a long time I have
 
 ### Tools
 <p align="left">
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/tools/jetbrains_pycharm.svg" style="max-width: 100%">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/tools/visualstudio.svg" style="max-width: 100%">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/tools/docker.svg" style="max-width: 100%">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/tools/jetbrains_pycharm.svg" style="max-width: 100%">
   <img src="https://cdn.discordapp.com/attachments/975450807833079871/975452661820313620/Ubuntu.png" style="width: 130px">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/tools/visualstudio_code.svg" style="max-width: 100%">
 </p>
