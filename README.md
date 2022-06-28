@@ -23,7 +23,7 @@ I'm Samuel Galindo 'aka' IzPandaa or P4nd4. I am a junior developer and content 
 I enjoy learning new technologies, and creating projects. For a long time I have been learning on my own, until I have taken the leap to dedicate myself 100% to development.
 
 - 🔭 I am currently working on expanding and strengthening my knowledge
-- 🌱 I'm currently learning TypeScript, Angular, NodeJS and everything I can
+- 🌱 I'm currently learning everything I can
 - 💞️ Something about me: I love video games and computers. I started very young and here I am, I have owned servers and large video game communities during my life.
 
 <hr>
