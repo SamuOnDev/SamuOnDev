@@ -54,7 +54,7 @@ I enjoy learning new technologies, and creating projects. For a long time I have
 
 ### DataBases
 <p align="left">
-  
+  <img src="https://cdn.discordapp.com/attachments/975450807833079871/1026794116778037248/MSSQL.png" style="width: 130px">
   <img src="https://cdn.discordapp.com/attachments/975450807833079871/991295420548526140/sql.png" style="width: 130px">
   <img src="https://cdn.discordapp.com/attachments/975450807833079871/977178188255997962/mongoDB.png" style="width: 130px">
 </p>
