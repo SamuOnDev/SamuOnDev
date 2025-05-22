@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/samuel-galindo-16a420b8/" rel="nofollow">
-    <img src="https://cdn.discordapp.com/attachments/975450807833079871/975471472833335396/LinkedIn.png" style="max-width: 100%">
+    <img src="https://cdn.discordapp.com/attachments/975450807833079871/975471472468451338/Twitter.png" style="max-width: 100%">
   </a>
   <a href="https://www.twitch.tv/izpandaa" rel="nofollow">
     <img src="https://cdn.discordapp.com/attachments/975450807833079871/975471473873518642/Twitch.png" style="max-width: 100%">
