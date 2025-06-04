@@ -1,21 +1,3 @@
-<p align="center">
-  <a href="https://www.linkedin.com/in/samuel-galindo-16a420b8/" rel="nofollow">
-    <img src="[https://cdn.discordapp.com/attachments/975450807833079871/975471472468451338/Twitter.png](https://cdn.discordapp.com/attachments/975450807833079871/975471472468451338/Twitter.png?ex=6830c49a&is=682f731a&hm=c699d754889053953b72e33d5975b9a8b0ef9b046d69cd6fdffd244cf39f80e4&)" style="max-width: 100%">
-  </a>
-  <a href="https://www.twitch.tv/izpandaa" rel="nofollow">
-    <img src="https://cdn.discordapp.com/attachments/975450807833079871/975471473873518642/Twitch.png" style="max-width: 100%">
-  </a>
-  <a href="https://www.youtube.com/channel/UCSSSKCWwKlrXjRV7TyqO5EQ" rel="nofollow">
-    <img src="https://cdn.discordapp.com/attachments/975450807833079871/975471473118564423/Youtube.png" style="max-width: 100%">
-  </a>
-  <a href="https://twitter.com/IzPandaa" rel="nofollow">
-    <img src="https://cdn.discordapp.com/attachments/975450807833079871/975471472468451338/Twitter.png" style="max-width: 100%">
-  </a>
-  <a href="https://www.instagram.com/izpandaa/" rel="nofollow">
-    <img src="https://cdn.discordapp.com/attachments/975450807833079871/975471473479270481/Instagram.png" style="max-width: 100%">
-  </a>
-</p>
-
 ## Hello! 👋
 
 I'm Samuel Galindo 'aka' Samu. I am a junior developer and content creator on Twitch and YouTube.
