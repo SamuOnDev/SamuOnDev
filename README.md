@@ -1,6 +1,6 @@
 ## Hello! 👋
 
-I'm Samuel Galindo 'aka' Samu. I am a junior developer and YouTube Strategist.
+I'm Samuel Galindo 'aka' Samu. I am a Full-Stack Dev.
 
 I enjoy learning new technologies, and creating projects. For a long time I have been learning on my own, until I have taken the leap to dedicate myself 100% to development.
 
